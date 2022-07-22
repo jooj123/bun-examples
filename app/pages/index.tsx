@@ -14,9 +14,13 @@ export default function Home({}) {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js! sdfsdfds</a> v
+          Welcome to <a href="https://nextjs.org">Next.js!</a> v
           {nextPackage.version}
         </h1>
+
+        <h2>
+          sdfsdfds
+        </h2>
 
         <p className={styles.description}>
           Get started by editing{" "}
